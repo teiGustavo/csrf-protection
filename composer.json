@@ -1,0 +1,15 @@
+{
+    "name": "gteixeira/csrf-protection",
+    "autoload": {
+        "psr-4": {
+            "Gteixeira\\CsrfProtection\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo Teixeira",
+            "email": "gteixeiradesousa7@gmail.com"
+        }
+    ],
+    "require": {}
+}
